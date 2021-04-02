@@ -14,4 +14,4 @@
 ### 3️⃣ 7/2(화) ~ 8/31(화) 中 매일
   '[백준 온라인 저지](https://www.acmicpc.net/)'에서 문제를 해결하고 코드를 업로드할 예정입니다. 문제는 '[Solved.ac](https://solved.ac/)' 기준 **골드** 난이도로 선정할 예정입니다.
 + Solved.ac 계정 티어 (3월 기준 브론즈3)    
-![](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsalsrb5)
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsalsrb5)](https://solved.ac/profile/wjsalsrb5)
