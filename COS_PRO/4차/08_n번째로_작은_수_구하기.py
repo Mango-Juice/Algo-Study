@@ -12,7 +12,7 @@ def solution(card, n):
 	card_str = list(map(str, card))
 	cards = sorted(list(set(map(''.join, permutations(card_str, len(card_str))))))
 
-	return cards.index(str(n))
+	return cards.index(str(n)) + 1
 
 
 card1 = [1, 2, 1, 3]
