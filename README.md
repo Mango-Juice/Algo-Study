@@ -1,5 +1,5 @@
-![](https://img.shields.io/badge/Update%2003/30-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
-파이썬 알고리즘 학습
+![](https://img.shields.io/badge/Update%2004/25-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
+파이썬 알고리즘 학습 2021
 ====
 ### 1️⃣ 3/29(월) ~ 7/1(목) 中 매일
   <파이썬 알고리즘 인터뷰>에 수록된 문제들을 '[리트코드](https://leetcode.com/problemset/all)'에서 해결한 후 코드를 업로드할 예정입니다.
