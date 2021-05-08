@@ -27,3 +27,16 @@ def solution(n, garden):
 		answer = target[2]
 
 	return answer
+
+
+n1 = 3
+garden1 = [[0, 0, 0], [0, 1, 0], [0, 0, 0]]
+ret1 = solution(n1, garden1)
+
+print("solution 함수의 반환 값은", ret1, "입니다.")
+
+n2 = 2
+garden2 = [[1, 1], [1, 1]]
+ret2 = solution(n2, garden2)
+
+print("solution 함수의 반환 값은", ret2, "입니다.")
