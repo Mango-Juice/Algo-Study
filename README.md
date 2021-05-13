@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Lated%20Update%20:%2005/13-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
+![](https://img.shields.io/badge/Latest%20Update%20:%2005/13-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
 파이썬 알고리즘 학습 2021
 ====
 ### 1️⃣ 3/29(월) ~ 7/1(목) 中 매일
