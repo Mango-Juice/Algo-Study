@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Latest%20Update%20:%2005/13-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
+![](https://img.shields.io/badge/Latest%20Update%20:%2005/15-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
 파이썬 알고리즘 학습 2021
 ====
 ### 1️⃣ 3/29(월) ~ 7/1(목) 中 매일
@@ -6,8 +6,8 @@
 
 
 
-### 2️⃣ 4/3(토) ~ 5/15(토) 中 매주 토요일
-  '[구름 에듀](https://edu.goorm.io/lecture/17299/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)'에서 COS PRO 1급 Python 기출문제를 해결한 후 코드를 **[COS_PRO](COS_PRO)** 폴더에 업로드합니다. **단, 빈칸 채우기와 한 줄 바꾸기 문제는 업로드하지 않겠습니다.** 5/15(토)에는 COS PRO 공식 홈페이지에 게재된 모의고사를 풀이합니다. 이후 5/16(일)에 실제 본시험에 응시합니다.
+### 2️⃣ 4/3(토) ~ 5/8(토) 中 매주 토요일
+  '[구름 에듀](https://edu.goorm.io/lecture/17299/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)'에서 COS PRO 1급 Python 기출문제를 해결한 후 코드를 **[COS_PRO](COS_PRO)** 폴더에 업로드합니다. **단, 빈칸 채우기와 한 줄 바꾸기 문제는 업로드하지 않겠습니다.** 5/16(일)에 실제 시험에 응시합니다.
 
 
 
