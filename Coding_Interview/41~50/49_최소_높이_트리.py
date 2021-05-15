@@ -1,4 +1,4 @@
-#최소 높이 
+#최소 높이 트리
 #https://leetcode.com/problems/minimum-height-trees
 
 from collections import defaultdict
