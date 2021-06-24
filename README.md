@@ -1,9 +1,8 @@
-![](https://img.shields.io/badge/Latest%20Update%20:%2005/29-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
+![](https://img.shields.io/badge/Latest%20Update%20:%2006/25-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
 알고리즘 스터디
 ====    
 ### 👉 2021.03.29 ~ 2021.07.01 (매일)
-  <파이썬 알고리즘 인터뷰>에 수록된 문제들을 '[리트코드](https://leetcode.com/problemset/all)'에서 해결한 후 코드를 **[Coding_Interview](Coding_Interview)** 폴더에 업로드합니다.    
-+ 리트코드 프로필 [바로가기](https://leetcode.com/Mango-Juice/)
+  <파이썬 알고리즘 인터뷰>에 수록된 문제들을 '[리트코드](https://leetcode.com)' 또는 '[프로그래머스](https://programmers.co.kr)'에서 해결한 후 코드를 **[Coding_Interview](Coding_Interview)** 폴더에 업로드합니다.    
 
     
     
