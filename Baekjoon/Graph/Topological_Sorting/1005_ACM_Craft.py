@@ -1,5 +1,5 @@
 # https://www.acmicpc.net/problem/1005
-# 위상 정
+# 위상 정렬
 
 from collections import deque
 from sys import stdin
