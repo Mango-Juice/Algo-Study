@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/problem/1774
+// https://www.acmicpc.net/problem/1774
 
 #include <iostream>
 #include <stdio.h>
