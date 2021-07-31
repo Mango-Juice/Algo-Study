@@ -1,9 +1,7 @@
 // https://www.acmicpc.net/problem/18119
 
 #include <stdio.h>
-#include <algorithm>
 #include <string>
-#include <vector>
 
 using namespace std;
 
