@@ -3,7 +3,7 @@
 ====    
 ### 👉 2021.07.02 ~ 2021.08.31 (매일)
   '[백준 온라인 저지](https://www.acmicpc.net/)'에서 문제를 한개 이상 해결하고 코드를 **[Baekjoon](Baekjoon)** 폴더에 업로드합니다. 언어는 파이썬과 C++을 사용합니다.    
-+ Solved.ac 계정 티어 (3월 기준 브론즈3)     
++ solved.ac 계정 티어 (3월 기준 브론즈3)     
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsalsrb5)](https://solved.ac/profile/wjsalsrb5/history)
     
     
