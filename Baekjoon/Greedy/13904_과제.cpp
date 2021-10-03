@@ -10,10 +10,7 @@ using namespace std;
 pair<int, int> arr[1001];
 int visited[1002] = { false };
 
-bool compare(pair<int, int> a, pair<int, int>b) {
-    if (a.second == b.second) return a.first < b.second;
-    return a.second > b.second;
-}
+bool compare(pair<int, int> a, pair<int, int>b) { return a.second > b.second; }
 
 int main() {
     int i, day, N, answer = 0;
