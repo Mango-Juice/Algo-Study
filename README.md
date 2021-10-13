@@ -1,10 +1,17 @@
-![](https://img.shields.io/badge/Latest%20Update%20:%2009/01-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
+![](https://img.shields.io/badge/Latest%20Update%20:%2010/14-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
 알고리즘 스터디
 ====    
-### 👉 2021.07.02 ~ (매일)
-  '[백준 온라인 저지](https://www.acmicpc.net/)'에서 문제를 한개 이상 해결하고 코드를 **[Baekjoon](Baekjoon)** 폴더에 업로드합니다. 언어는 파이썬과 C++을 사용합니다.    
-+ solved.ac 계정 티어 (3월 기준 브론즈3)     
+### 👉 2021.07.02 ~ (수시로)
+  '[백준 온라인 저지](https://www.acmicpc.net/)'에서 문제를 해결하고 코드를 **[Baekjoon](Baekjoon)** 폴더에 업로드합니다. 언어는 파이썬과 C++을 사용합니다.    
++ solved.ac 계정 티어    
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsalsrb5)](https://solved.ac/profile/wjsalsrb5/history)
+    
+    
+    
+### 👉 2021.09.12 ~ (수시로)
+  '[Codeforces](https://codeforces.com/)'에서 Contest에 참가하고 코드를 **[Codeforces](Codeforces)** 폴더에 업로드합니다. 언어는 C++을 사용합니다.    
++ Codeforces Rating   
+[![](https://cf-stats.siriuskoan.workers.dev/?handle=Mango-Juice)](https://codeforces.com/profile/Mango-Juice)
     
     
     
