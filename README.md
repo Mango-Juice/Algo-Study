@@ -11,7 +11,7 @@
 ### 👉 2021.09.12 ~ (수시로)
   '[Codeforces](https://codeforces.com/)'에서 Contest에 참가하고 코드를 **[Codeforces](Codeforces)** 폴더에 업로드합니다. 언어는 C++을 사용합니다.    
 + Codeforces Rating   
-[![](https://cf-stats.siriuskoan.workers.dev/?handle=Mango-Juice)](https://codeforces.com/profile/Mango-Juice)
+[![](https://cf-stats.siriuskoan.workers.dev/?handle=Mango-Juice/)](https://codeforces.com/profile/Mango-Juice)
     
     
     
