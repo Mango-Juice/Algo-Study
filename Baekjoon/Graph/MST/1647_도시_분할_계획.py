@@ -3,42 +3,39 @@
 
 import sys
 
-sys.setrecursionlimit(10 ** 6)
+input = sys.stdin.readline
 
-def find(x):
-    if tree[x] == x:
-        return x
-    tree[x] = find(tree[x])
-    return tree[x]
+n, m = map(int, input().split())
 
-def union(x, y):
-    x = find(x)
-    y = find(y)
-    if x != y:
-        tree[x] = y
+roads = []
+parents = [i for i in range(n + 1)]
+answer = 0
+last = 0
 
-n, m = map(int, sys.stdin.readline().split())
-edges = []
-tree = [i for i in range(n + 1)]
+def find(a):
+    if parents[a] != a:
+        return find(parents[a])
+    return a
+
+def union(a, b):
+    a = find(a)
+    b = find(b)
+    
+    if a < b:
+        parents[b] = a
+    else:
+        parents[a] = b
 
 for _ in range(m):
-    from_, to_, weight = tuple(map(int, sys.stdin.readline().split()))
-    edges.append((weight, from_, to_))
+    a, b, c = map(int, input().split())
+    roads.append((c, a, b))
 
-edges.sort()
+roads.sort()
 
-sum_ = 0
-count = 0
+for c, a, b in roads:
+    if find(a) != find(b):
+        union(a, b)
+        answer += c
+        last = c
 
-for edge in edges:
-    weight, from_, to_ = edge
-
-    if find(from_) != find(to_):
-        sum_ += weight
-        union(from_, to_)
-        count += 1
-        
-        if count == n - 2:
-            break
-
-print(sum_)
+print(answer - last)
