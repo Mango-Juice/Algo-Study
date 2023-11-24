@@ -2,21 +2,24 @@
 # 냅색 응용
 
 import sys
+input = sys.stdin.readline
 
-N, M = map(int, sys.stdin.readline().split())
-An = [0] + list(map(int, sys.stdin.readline().split()))
-Cn = [0] + list(map(int, sys.stdin.readline().split()))
-hap, answer = sum(Cn), float('inf')
-dp = [[0 for _ in range(hap + 1)] for _ in range(N + 1)]
+n, m = map(int, input().split())
+a = tuple(map(int, input().split()))
+c = tuple(map(int, input().split()))
 
-for i in range(1, N + 1):
-    for j in range(1, hap + 1):
-        if j >= Cn[i]:
-            dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - Cn[i]] + An[i])
-            if dp[i][j] >= M:
-                answer = min(answer, j)
-                break
+dp = [[0 for _ in range(10001)] for _ in range(n + 1)]
+answer = 10001
+
+for i in range(1, n + 1):
+    for j in range(answer):
+        if c[i - 1] <= j:
+            dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - c[i - 1]] + a[i - 1])
         else:
             dp[i][j] = dp[i - 1][j]
+            
+        if dp[i][j] >= m:
+            answer = min(answer, j)
+            break
 
 print(answer)
