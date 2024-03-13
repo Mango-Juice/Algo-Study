@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Latest%20Update%20:%2010/14-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
+![](https://img.shields.io/badge/Latest%20Update%20:%202024.03.13-193440?style=flat-square&amp;logo=PyPy&amp;logoColor=white)    
 알고리즘 스터디
 ====    
 ### 👉 2021.07.02 ~ (수시로)
@@ -9,9 +9,9 @@
     
     
 ### 👉 2021.09.12 ~ (수시로)
-  '[Codeforces](https://codeforces.com/)'에서 Contest에 참가하고 코드를 **[Codeforces](Codeforces)** 폴더에 업로드합니다. 언어는 C++을 사용합니다.    
+  '[Codeforces](https://codeforces.com/)'에서 Contest에 참가하고 코드를 **[Codeforces](Codeforces)** 폴더에 업로드합니다. 언어는 파이썬과 C++를 사용합니다.    
 + Codeforces Rating   
-[![](https://cf-stats.siriuskoan.workers.dev/?handle=Mango-Juice/)](https://codeforces.com/profile/Mango-Juice)
+[![](https://cf.leed.at/?id=Mango-Juice)](https://codeforces.com/profile/Mango-Juice)
     
     
     
